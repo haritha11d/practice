@@ -1,3 +1,12 @@
+commit 197e7bf39f718554f0f0343fbe84f8215695b853
+Author: unknown <haritha11d@gmail.com>
+Date:   Sun Sep 22 22:44:59 2019 +0200
+
+    commiting A.txt
+
+ log.log | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
 commit d0d6ce67c041613836f3d7fbba94faaef38682c4
 Author: unknown <haritha11d@gmail.com>
 Date:   Sun Sep 22 22:43:12 2019 +0200
